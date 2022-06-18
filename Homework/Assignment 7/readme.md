@@ -1,0 +1,13 @@
+- Q1.  Let e be a maximum-weight edge on some cycle of connected graph G = (V, E). Prove that there is a minimum spanning tree of G0 = (V, E–{e}) that is also a minimum spanning tree of G. That is, there is a minimum spanning tree of G that does not include e.
+- Q2. Consider the undirected graph below. Suppose that vertex r is the root.
+  - (a) Find the sequence of the minimum spanning tree edges selected when Prim’s algorithm is run.
+  - (b) Find the sequence of the minimum spanning tree edges selected when Kruskal’s algorithm is run.
+- Q3. Consider the directed graph below.
+  - (a) Suppose that vertex 1 is the root. Find the sequence of the shortest-paths tree edges selected when the Bellman-Ford algorithm is run.
+  - (b) Suppose that vertex 1 is the root. Find the sequence of the shortest-paths tree edges selected when Dijkstra’s algorithm is run.
+  - (c) Show the matrices L(0), L(1), L(2), L(3), L(4) when the EXTEND-SHORTEST-PATHS algorithm is run.
+  - (d) Show the matrices L(0), L(2), L(4) when the FASTER-APSP algorithm is run.
+  - (e) Show the matrices d and π when each iteration of the k-loop in FLOYD-WARSHALL-PRED is finished (for k = 1, 2, 3, 4, 5).
+- Q4. (CLRS 14.1-3) Consider a modification of the rod-cutting problem in which, in addition to a price pi for each rod, each cut incurs a fixed cost of c. The revenue associated with a solution is now the sum of the prices of the pieces minus the costs of making the cuts. Give a dynamic-programming algorithm to solve this modified problem.
+
+- Please refer to pdf file for the figure of Q2 and Q3
