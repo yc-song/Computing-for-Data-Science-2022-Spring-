@@ -3,10 +3,7 @@ This repository contains my solutions and implementations to the algorithm and a
 
 Assignments and algorithms using C++ are as below:
 
-
-
-Assignments using Tensorflow are completed, those using Pytorch will be implemented in the future.
-
+## Assignments
 - Assignment 1: Polymorphism 
 - Assignment 2
   - Q1: Word Counts
@@ -20,7 +17,7 @@ Assignments using Tensorflow are completed, those using Pytorch will be implemen
 - Assignment 6: Set Container
 - Assignment 7: Graph Theory
 - Assignment 8: Deep Learning
-
+## Algorithm
 - Algorithm 1: Binary Search Tree (insert, delete, search...)
 - Algorithm 2: Graph (BST, DST...)
 - Algorithm 3: Heap 
