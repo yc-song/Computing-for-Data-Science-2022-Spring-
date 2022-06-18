@@ -1,7 +1,7 @@
 # Computing-for-Data-Science-2022-Spring-
 This repository contains my solutions and implementations to the algorithm and assignments of the computing for data science course offered by Graduate School of Data Science, Seoul National University (2022 Spring)
 
-Assignments and algorithms using C++ are as below:
+Assignments and algorithms implemented by C++ are as below:
 
 ## Assignments
 - Assignment 1: Polymorphism 
