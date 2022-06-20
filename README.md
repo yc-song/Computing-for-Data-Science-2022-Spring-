@@ -4,7 +4,7 @@ This repository contains my solutions and implementations to the algorithm and a
 Assignments and algorithms implemented by C++ are as below:
 
 ## Assignments
-- Assignment 1: Polymorphism (9/10; It was due to a mistake on submission)
+- Assignment 1: Polymorphism (9/10; It was due to a mistake on file name)
 - Assignment 2 (10/10)
   - Q1: Word Counts
   - Q2: Prime Number
