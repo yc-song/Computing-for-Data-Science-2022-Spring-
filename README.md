@@ -15,7 +15,7 @@ Assignments and algorithms implemented by C++ are as below:
 - Assignment 5: (10/10)
   - Q1. Heaps, Binary Search Trees, and Red-Black Trees
 - Assignment 6: Set Container (10/10)
-- Assignment 7: Graph Theory (?/10)
+- Assignment 7: Graph Theory (10/10)
 - Assignment 8: Deep Learning (?/10)
 ## Algorithm
 - Algorithm 1: Binary Search Tree (insert, delete, search...)
